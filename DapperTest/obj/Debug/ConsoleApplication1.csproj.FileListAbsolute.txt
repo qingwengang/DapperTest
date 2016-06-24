@@ -1,0 +1,7 @@
+E:\dotnetspace\WebApi1\WebApi1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\dotnetspace\WebApi1\WebApi1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\dotnetspace\WebApi1\WebApi1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\dotnetspace\WebApi1\WebApi1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\dotnetspace\WebApi1\WebApi1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\dotnetspace\WebApi1\WebApi1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\dotnetspace\WebApi1\WebApi1\ConsoleApplication1\bin\Debug\MySql.Data.dll
